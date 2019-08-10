@@ -40,3 +40,10 @@ password  = 11221122
 
 YOU ARE ALL SETUP TO START WORKING ON THE THING.
 DO AS MUCH IMPROVEMENT AS YOU CAN. I have no more info above Laravel than this so I can't improve it any more.
+
+
+
+Please Donate if you can. Your donation well help in my studies. 
+Contact with me at my email = nabeelyousaf433@gmail.com
+
+THANKS
