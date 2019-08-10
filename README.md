@@ -43,7 +43,7 @@ DO AS MUCH IMPROVEMENT AS YOU CAN. I have no more info above Laravel than this s
 
 
 
-Please Donate if you can. Your donation well help in my studies. 
+Please Donate if you can. Your donation will help in my studies. 
 Contact with me at my email = nabeelyousaf433@gmail.com
 
 THANKS
