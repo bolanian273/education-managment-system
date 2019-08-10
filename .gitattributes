@@ -1,8 +1,2 @@
-* text=auto
-*.css linguist-vendored
-*.scss linguist-vendored
-*.js linguist-vendored
-CHANGELOG.md export-ignore
-*.js linguist-language=PHP
-*.css linguist-language=PHP
-*.html linguist-language=PHP
+# Example of a `.gitattributes` file which reclassifies `.rb` files as Java:
+*.rb linguist-language=Java
